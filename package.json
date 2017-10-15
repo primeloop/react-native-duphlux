@@ -1,7 +1,7 @@
 {
   "name": "react-native-duphlux",
   "version": "1.0.0",
-  "description": "A simple react-nativesmall NodeJS  wrapper library for the telephone verification service Duphlux.",
+  "description": "A simple react-native wrapper library for the telephone verification service Duphlux.",
   "main": "\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dlib/index.js)",
   "scripts": {
     "test": "mocha --reporter spec"
